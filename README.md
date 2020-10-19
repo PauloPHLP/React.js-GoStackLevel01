@@ -1,11 +1,11 @@
-# 🖥️ Go Stack Level 01
+# 🖥️ Go Stack React.js Sandbox
 
 <h1 align="center">
   <img alt="Node.js" src=".github/logo.png" width="200px" />
 </h1>
 
 ## 🔎️ Description
-Sandbox of React.js for Boot Camp GoStack level 01.
+Sandbox of React.js for Boot Camp GoStack.
 
 This project was made during the <a href="https://rocketseat.com.br/gostack">GoStack Boot Camp</a> in 2020.
 
